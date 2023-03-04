@@ -1,7 +1,9 @@
 ### Hi there 👋
-My name is Abay/ I'm Python Junior developer. My skills consists from: HTML, CSS, Parsing, 
+My name is Abay. I'm Junior Python developer. My skills consists from: HTML, CSS, Parsing, Telegram/aiogram bots, Django Rest, API, Rest, PostgresSQL
 
-I'm coding for the Dark side. 
+
+
+Also, I'm coding for the Dark side. 
 
 <table border="1"><tr><td valign="top" width="33%"><div align="center">  
 <img src='https://user-images.githubusercontent.com/120572718/222692804-2e6f75cf-7e0f-493b-a61c-b23546948c4a.png'>
@@ -18,10 +20,10 @@ I'm coding for the Dark side.
     <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
     <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/github-512.png" alt="GitHub" height="50" /></a> 
     <!-- <a href="https://maven.apache.org/" target="_blank"><img style="margin: 10px" src="https://ih1.redbubble.net/image.903190088.5132/st,small,507x507-pad,600x600,f8f8f8.u1.jpg" alt="Maven" height="50" /></a> -->
-    <a href="https://gradle.com/" target="_blank"><img style="margin: 10px" src="https://www.eclipse.org/community/eclipse_newsletter/2015/may/images/gradlephant.png" alt="Gradle" height="50" /></a>
+<!--     <a href="https://gradle.com/" target="_blank"><img style="margin: 10px" src="https://www.eclipse.org/community/eclipse_newsletter/2015/may/images/gradlephant.png" alt="Gradle" height="50" /></a> -->
     <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
     <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-    <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>
+<!--     <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a> -->
     <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>
     <a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="Postman" height="50" /></a>
     <a href="https://junit.org/junit5/" target="_blank"><img style="margin: 10px" src="https://info.michael-simons.eu/wp-content/uploads/2018/06/OUEK2KAj_400x400.png" alt="JUnit5" height="50" /></a>
@@ -32,7 +34,6 @@ I'm coding for the Dark side.
     <a href="https://logz.io/blog/kibana-tutorial/" target="_blank"><img style="margin: 10px" src="https://brandslogos.com/wp-content/uploads/thumbs/elastic-kibana-logo-vector.svg" alt="Kibana" height="50" /></a> 
     <a href="https://circleci.com/" target="_blank"><img style="margin: 10px" src="https://mpng.subpng.com/20180929/eya/kisspng-logo-computer-icons-circleci-vector-graphics-porta-continuous-testing-for-devops-perfecto-5baffdda929ed8.1294350515382604426006.jpg" alt="Circleci" height="50" /></a>  
     <a href="https://github.com/features/actions" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" alt="GitHub Actions" height="50" /></a> 
-    <a href="https://slack.com/" target="_blank"><img style="margin: 10px" src="https://preview.redd.it/56gslfbvhyq81.png?width=1024&format=png&auto=webp&s=75619939d792e4449db4b0bda8074533b91e8aef" alt="Slack" height="50" /></a>/
     <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
     <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
     <a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="50" /></a>  
@@ -46,6 +47,7 @@ I'm coding for the Dark side.
 **HiggsBoson8/HiggsBoson8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on myself
 - 🌱 I’m currently learning ...
