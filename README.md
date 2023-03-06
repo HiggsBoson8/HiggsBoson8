@@ -23,11 +23,6 @@ Also, I'm coding for the Dark side.
 <!--     <a href="https://gradle.com/" target="_blank"><img style="margin: 10px" src="https://www.eclipse.org/community/eclipse_newsletter/2015/may/images/gradlephant.png" alt="Gradle" height="50" /></a> -->
     <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
     <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-    <a href="https://junit.org/junit5/" target="_blank"><img style="margin: 10px" src="https://info.michael-simons.eu/wp-content/uploads/2018/06/OUEK2KAj_400x400.png" alt="JUnit5" height="50" /></a>
-    <a href="https://www.atlassian.com/software/jira" target="_blank"><img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" alt="Jira" height="50" /></a>
-    <a href="https://logz.io/blog/kibana-tutorial/" target="_blank"><img style="margin: 10px" src="https://brandslogos.com/wp-content/uploads/thumbs/elastic-kibana-logo-vector.svg" alt="Kibana" height="50" /></a> 
-    <a href="https://circleci.com/" target="_blank"><img style="margin: 10px" src="https://mpng.subpng.com/20180929/eya/kisspng-logo-computer-icons-circleci-vector-graphics-porta-continuous-testing-for-devops-perfecto-5baffdda929ed8.1294350515382604426006.jpg" alt="Circleci" height="50" /></a>  
-    <a href="https://github.com/features/actions" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" alt="GitHub Actions" height="50" /></a> 
     <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
     <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a> 
     <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
