@@ -23,11 +23,7 @@ Also, I'm coding for the Dark side.
 <!--     <a href="https://gradle.com/" target="_blank"><img style="margin: 10px" src="https://www.eclipse.org/community/eclipse_newsletter/2015/may/images/gradlephant.png" alt="Gradle" height="50" /></a> -->
     <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
     <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<!--     <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a> -->
-    <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>
-    <a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="Postman" height="50" /></a>
     <a href="https://junit.org/junit5/" target="_blank"><img style="margin: 10px" src="https://info.michael-simons.eu/wp-content/uploads/2018/06/OUEK2KAj_400x400.png" alt="JUnit5" height="50" /></a>
-    <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>
     <a href="https://www.atlassian.com/software/jira" target="_blank"><img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" alt="Jira" height="50" /></a>
     <a href="https://trello.com/" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/6124/6124991.png" alt="Trello" height="50" /></a>
     <a href="https://logz.io/" target="_blank"><img style="margin: 10px" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_eddaa7efd3c096e57445623ecd1388dc/logz-io.png" alt="Logz" height="50" /></a> 
