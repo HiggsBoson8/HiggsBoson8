@@ -7,7 +7,6 @@ Also, I'm coding for the Dark side.
 
 <table border="1"><tr><td valign="top" width="33%"><div align="center">  
 <img src='https://user-images.githubusercontent.com/120572718/222692804-2e6f75cf-7e0f-493b-a61c-b23546948c4a.png'>
-<!-- <img src='https://user-images.githubusercontent.com/101027445/205465907-4b077c0e-ec2e-4294-acd7-ad33904f28e0.png'> -->
     <!-- <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a> -->
     <!-- <a href="https://hibernate.org/" target="_blank"><img style="margin: 10px" src="https://media.bitdegree.org/storage/media/images/2018/12/hibernate-interview-questions-logo.png" alt="Hibarnate" height="50" /></a>  -->
     <!-- <a href="https://spring.io/" target="_blank"><img style="margin: 10px" src="https://springframework.guru/wp-content/uploads/2015/02/spring-framework-project-logo.png" alt="Spring Freamwork" height="50" /></a> -->
@@ -19,12 +18,10 @@ Also, I'm coding for the Dark side.
     <!-- <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  -->
     <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
     <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/github-512.png" alt="GitHub" height="50" /></a> 
-    <!-- <a href="https://maven.apache.org/" target="_blank"><img style="margin: 10px" src="https://ih1.redbubble.net/image.903190088.5132/st,small,507x507-pad,600x600,f8f8f8.u1.jpg" alt="Maven" height="50" /></a> -->
-<!--     <a href="https://gradle.com/" target="_blank"><img style="margin: 10px" src="https://www.eclipse.org/community/eclipse_newsletter/2015/may/images/gradlephant.png" alt="Gradle" height="50" /></a> -->
+
     <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
     <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
     <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-    <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a> 
     <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
     </div>
  </td></tr></table>
