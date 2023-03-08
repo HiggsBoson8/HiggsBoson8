@@ -12,6 +12,15 @@ My name is Abay. I'm Junior Python developer. My skills consists from: HTML, CSS
 <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" title="docker" width="40" height="40"/>&nbsp;
 <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" title="Linux" width="40" height="40"/>&nbsp;
 
+- 🔭 I’m interested in Python and backend development.
+- 🌱 Also I'm learning Data-Analytics. 
+- 👯 I’m looking to collaborate on ...
+- 📫 How to reach me: 
+-        email - chaosundivided40k@gmail.com
+-        telegram - landscknecht8
+
+- ⚡ Fun fact: ...
+
 
 
 Also, I'm coding for the Dark side. 
