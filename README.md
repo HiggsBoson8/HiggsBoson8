@@ -17,7 +17,7 @@ My name is Abay. I'm Junior Python developer. My skills consists from: HTML, CSS
 - 👯 I’m looking to collaborate on ...
 - 📫 How to reach me: 
 -        email - chaosundivided40k@gmail.com
--        telegram - landscknecht8
+-        telegram - @landscknecht8
 
 - ⚡ Fun fact: ...
 
