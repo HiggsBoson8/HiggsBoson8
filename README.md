@@ -11,6 +11,7 @@ My name is Abay. I'm Junior Python developer. My skills consists from: HTML, CSS
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="sql" width="40" height="40"/>&nbsp;
 <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" title="docker" width="40" height="40"/>&nbsp;
 <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" title="Linux" width="40" height="40"/>&nbsp;
+<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a> 
 
 - 🔭 I’m interested in Python and backend development.
 - 🌱 Also I'm learning Data-Analytics.
