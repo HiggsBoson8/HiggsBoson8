@@ -13,7 +13,8 @@ My name is Abay. I'm Junior Python developer. My skills consists from: HTML, CSS
 <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" title="Linux" width="40" height="40"/>&nbsp;
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a> 
 
-- 🔭 I’m interested in Python and backend development.
+- 🔭 I’m interested in Python and backend development. Learning everything related with Backend technologies on Python.
+- My future Goals: Learning more technologies - Never stop creating new ideas.
 - 🌱 Also I'm learning Data-Analytics.
 - 📫 How to reach me: 
 -        email - chaosundivided40k@gmail.com
@@ -23,7 +24,7 @@ My name is Abay. I'm Junior Python developer. My skills consists from: HTML, CSS
 
 
 
-Also, I'm coding for the Dark side. 
+I'm coding for the Dark side. 
 
 <table border="1"><tr><td valign="top" width="33%"><div align="center">  
 <img src='https://user-images.githubusercontent.com/120572718/222692804-2e6f75cf-7e0f-493b-a61c-b23546948c4a.png'>
