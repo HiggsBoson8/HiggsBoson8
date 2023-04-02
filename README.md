@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Abay. I'm Junior Python developer. My skills consists from: HTML, CSS, Parsing, Telegram/aiogram bots, Django Rest, API, Rest, PostgresSQL
+My name is Abay. I'm Junior Python developer. My skills consists from: HTML, CSS, Parsing, Telegram/aiogram bots, Django Rest, API, Rest, PostgresSQL/MySQL
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="Python" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="Django" width="40" height="40"/>&nbsp;
@@ -31,6 +31,7 @@ I'm coding for the Dark side.
 
  </div>
  </td></tr></table>
+
 
 <!--
 **HiggsBoson8/HiggsBoson8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
